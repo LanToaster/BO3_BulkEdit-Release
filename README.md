@@ -43,7 +43,7 @@ Will add ":0" as DataValue to Blocks where none is Provided, when converting a S
 #### ShortBlocks:
 If true, Lists of Blocks, Branches and similar will use short names. Like: "B()" or "RB()"
 ## DefaultObject: 
-Defaul Preset, Rename this line and Copy all subsequent lines to Create a new Preset.
+Defaul Preset, Copy and Rename this and all subsequent lines to Create a new Preset.
 ### Object:
 Overall Settings how to handle Objects/Schematics
 #### WriteComments:
