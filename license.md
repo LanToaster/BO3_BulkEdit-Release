@@ -1,6 +1,3 @@
-#################
-#### License ####
-#################
 Copyright (C) 2020  Tobias Winkler
 
 Bo3_BulkEdit is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License
