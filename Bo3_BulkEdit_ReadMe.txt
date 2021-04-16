@@ -12,7 +12,7 @@ Bo3_BulkEdit is a tool to Modify and convert one or several *.bo3 files and *.sc
 The overall Use is fairly Simple, you just drop your Objects and Schematics into the "Source-Objects" Folder, and run Bo3_BulkEdit.exe.
 From there BulkEdit will process, according to the Settings, all *.schematic and *.bo3 files in that Folder, and save the Modified Objects to the Results Folder.
 
-Furthermore, if you have the Images, can BulkEdit create simple Preview Pictures of your Objects. .
+Furthermore, if you have the Images, can BulkEdit create simple Preview Pictures of your Objects.
 
 ########################
 #### Capabilities ######
@@ -20,7 +20,7 @@ Furthermore, if you have the Images, can BulkEdit create simple Preview Pictures
 
 A Quick Rundown what Bo3_BulkEdit can do for you:
 
-- Convert *.schematic files to *.bo3 files
+- Convert "*.schematic" and "*.schem" files to *.bo3 files
 - Extract NBT data from Schematics
 - Generate Randomised Structures from a set of schematics
 - Split single Objects in MultiObject Structures of custom Part Sizes.
@@ -58,6 +58,8 @@ Email at: lantoaster@the-sanctuary.info
 ########################
 
 Changelog:
+16.04.2021 - Initial Release
+ - Added the ability to to process "*.schem" files from newer Versions of WorldEdit.
 21.08.2020 - Initial Release
  - Complete Rewrite of BulkEdit, if you Update from a Previous Version, BulkEdit will upgrade your Configuration.
    Make a Backup to be sure though.
